@@ -1,4 +1,4 @@
-As of William v0.1b
+As of William v0.2a
 Features:
 -Uses PC headphones for speech input
 -Opens various apps
