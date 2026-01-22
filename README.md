@@ -1,1 +1,12 @@
-# WYPHER-Audio
+As of William v0.1b
+Features:
+-Uses PC headphones for speech input
+-Opens various apps
+-Only uses commands with "William" at the start
+
+Commands:
+-Command "hello" gives output "William: Hello!"
+-Command "goodbye" gives output "William: Goodbye!" & exits the program
+-Command "open {website/app}" opens the targeted website or app etc youtube
+-Command "search {website} {target}" opens the target website and searches for the item for example PewDiePie on youtube
+-Command "ask {prompt}" which uses google gemini to get an ai answer
